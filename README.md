@@ -31,9 +31,10 @@ Welcome to my profile, most of my work is private. But I do have a few public pr
 ### 👨‍💻 About Me:
 I am a Junior Full Stack Developer.  
 I'm from Kazakhstan. 🌍  
-**My portfolio:** <a href="https://kitayev-nurakhmet.github.io/MyPortfolio/" target="_blank">
+My portfolio: <a href="https://kitayev-nurakhmet.github.io/MyPortfolio/" target="_blank">
     <code><img height="20" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/github.svg"> GitHub</img></code>
   </a>
+Profile Views 👁️ <img src="https://komarev.com/ghpvc/?username=Kitayev-Nurakhmet&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 ## <img width="40px" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/skills.gif">    My Skills:
 
@@ -51,13 +52,15 @@ I'm from Kazakhstan. 🌍
 
 ### :fire: My Stats:
 
-![Kitayev-Nurakhmet's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitayev-Nurakhmet&theme=radical)
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Kitayev-Nurakhmet&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kitayev-Nurakhmet&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-
+</details>
 
 
 
