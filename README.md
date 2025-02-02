@@ -5,11 +5,11 @@
 <div id="header" align="center">
   <img width="100%" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/line.gif" width="700">
   
-   <a href="https://www.linkedin.com/in/nurakhmet-kitayev-b8751b162/" target="_blank" text-decoration="none">
-    <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/linkedIn.svg" alt="LinkedIn Badge" width="50px"/>
+   <a href="https://www.linkedin.com/in/nurakhmet-kitayev-b8751b162/" target="_blank">
+    <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/linkedIn.svg" alt="LinkedIn" width="50px"/>
   </a>
   <a href="mailto:kitayev.n@gmail.com" target="_blank">
-    <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/gmail.svg" alt="gmail Badge" width="50px"/>
+    <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/gmail.svg" alt="gmail" width="50px"/>
   </a>
   <a href="https://t.me/kitayev_nura" target="_blank">
     <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/telegram.svg" alt="Telegram" width="50px"/>
@@ -31,10 +31,10 @@ Welcome to my profile, most of my work is private. But I do have a few public pr
 ### 👨‍💻 About Me:
 I am a Junior Full Stack Developer.  
 I'm from Kazakhstan. 🌍  
-My portfolio: <a href="https://kitayev-nurakhmet.github.io/MyPortfolio/" target="_blank">
+**My portfolio:** <a href="https://kitayev-nurakhmet.github.io/MyPortfolio/" target="_blank">
     <code><img height="20" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/github.svg"> GitHub</img></code>
   </a>    
-Profile Views 👁️ <img src="https://komarev.com/ghpvc/?username=Kitayev-Nurakhmet&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+**Profile Views:** 👁️ <img src="https://komarev.com/ghpvc/?username=Kitayev-Nurakhmet&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 ## <img width="40px" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/skills.gif">    My Skills:
 
