@@ -1,6 +1,21 @@
 <div id="header" align="center">
   <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/admin.png" width="150"/>
 
+   <a href="https://www.linkedin.com/in/nurakhmet-kitayev-b8751b162/" target="_blank">
+    <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/linkedIn.svg" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:kitayev.n@gmail.com" target="_blank">
+    <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/gmail.svg" alt="gmail Badge"/>
+  </a>
+  <a href="https://t.me/kitayev_nura" target="_blank">
+    <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/telegram.svg" alt="Telegram"/>
+  </a>
+  
+  <h1 align="center">
+    Hi There!!!
+    <img width="40px" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/hi.gif">
+  </h1>
+
   <!-- Fading Line -->
 <img width="100%" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/line.gif" width="700">
 
@@ -11,17 +26,9 @@ Welcome to my profile, most of my work is private. But I do have a few public pr
 <!-- Fading Line -->
 <img width="100%" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/line.gif" width="700">
 
-<div id="about" align="center"> 
-<h1 align="center">
-  Hi There!!!
-  <img width="40px" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/hi.gif">
-</h1>
-
-</div>
-
 <!-- About me -->
 ### 👨‍💻 About Me:
-I am a Junior Full Stack Developer.
+I am a Junior Full Stack Developer.  
 I'm from Kazakhstan. 🌍
 
 ## <img width="40px" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/skills.gif">    My Skills:
@@ -32,10 +39,11 @@ I'm from Kazakhstan. 🌍
 <code><img height="20" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/js.png"> Java Script</img></code>
 <code><img height="20" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/bootstrap.png"> Bootstrap</img></code>
 <code><img height="20" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/Sass.svg"> SCSS</img></code>
+<code><img height="20" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/figma.svg"> Figma</img></code>
 
 ### 🟡    I'm currently researching :
 
-<code><img height="20" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/react.png"> React</img></code>
+<code><img height="20" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/react.svg"> React</img></code>
 
 
 
