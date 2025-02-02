@@ -27,7 +27,7 @@ Welcome to my profile, most of my work is private. But I do have a few public pr
 
 <!-- About me -->
 <div align="right"> 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Kitayev-Nurakhmet=anuraghazra&show_icons=true&bg_color=00000000)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kitayev-Nurakhmet&show_icons=true&bg_color=00000000)
 </div>
 
 ### 👨‍💻 About Me:
