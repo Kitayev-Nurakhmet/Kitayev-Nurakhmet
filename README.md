@@ -5,7 +5,7 @@
 <div id="header" align="center">
   <img width="100%" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/line.gif" width="700">
   
-   <a href="https://www.linkedin.com/in/nurakhmet-kitayev-b8751b162/" target="_blank">
+   <a href="https://www.linkedin.com/in/nurakhmet-kitayev-b8751b162/" target="_blank" text-decoration="none">
     <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/linkedIn.svg" alt="LinkedIn Badge" width="50px"/>
   </a>
   <a href="mailto:kitayev.n@gmail.com" target="_blank">
@@ -33,7 +33,7 @@ I am a Junior Full Stack Developer.
 I'm from Kazakhstan. 🌍  
 My portfolio: <a href="https://kitayev-nurakhmet.github.io/MyPortfolio/" target="_blank">
     <code><img height="20" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/github.svg"> GitHub</img></code>
-  </a>
+  </a>    
 Profile Views 👁️ <img src="https://komarev.com/ghpvc/?username=Kitayev-Nurakhmet&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 ## <img width="40px" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/skills.gif">    My Skills:
@@ -52,7 +52,7 @@ Profile Views 👁️ <img src="https://komarev.com/ghpvc/?username=Kitayev-Nura
 
 ### :fire: My Stats:
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Kitayev-Nurakhmet&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitayev-Nurakhmet&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 <details>
   <summary>Activity Graph 📈</summary>
