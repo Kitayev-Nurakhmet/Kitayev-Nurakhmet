@@ -3,6 +3,8 @@
 </div>
 
 <div id="header" align="center">
+  <img width="100%" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/line.gif" width="700">
+  
    <a href="https://www.linkedin.com/in/nurakhmet-kitayev-b8751b162/" target="_blank">
     <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/linkedIn.svg" alt="LinkedIn Badge" width="50px"/>
   </a>
@@ -17,8 +19,6 @@
     Hi There!!!
     <img width="40px" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/hi.gif">
   </h1>
-  
-<img width="100%" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/line.gif" width="700">
 
 Welcome to my profile, most of my work is private. But I do have a few public projects. I'm currently learning Frontend. My path involves delving into the intricacies of coding, where I find a particular passion for creating and designing web pages using HTML, CSS and JavaScript, with the intention of incorporating React in the future. The satisfaction derived from coding goes beyond personal enjoyment, as products are available to a global audience online. Additionally, I enjoy the challenges posed by programming languages like JavaScript and React, and find great satisfaction in solving complex problems.
 
@@ -26,6 +26,10 @@ Welcome to my profile, most of my work is private. But I do have a few public pr
 </div>
 
 <!-- About me -->
+<div align="right"> 
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?Kitayev-Nurakhmet=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+</div>
+
 ### 👨‍💻 About Me:
 I am a Junior Full Stack Developer.  
 I'm from Kazakhstan. 🌍  
