@@ -1,16 +1,17 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/admin.png" width="150"/>
+</div>
 
-<!--
-**Kitayev-Nurakhmet/Kitayev-Nurakhmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Fading Line -->
+<img width="100%" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/line.gif" width="700">
 
-Here are some ideas to get you started:
+<div id="about" align="center"> 
+<h1 align="center">
+  Hi There!!!
+  <img width="40px" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/hi.gif">
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<!-- About me -->
+### 👨‍💻 About Me:
