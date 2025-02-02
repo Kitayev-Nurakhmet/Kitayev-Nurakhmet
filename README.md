@@ -26,9 +26,7 @@ Welcome to my profile, most of my work is private. But I do have a few public pr
 </div>
 
 <!-- About me -->
-<div align="right"> 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kitayev-Nurakhmet&show_icons=true&bg_color=00000000)
-</div>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Kitayev-Nurakhmet&show_icons=true">
 
 ### 👨‍💻 About Me:
 I am a Junior Full Stack Developer.  
