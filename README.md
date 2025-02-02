@@ -1,14 +1,14 @@
 <div id="header" align="center">
-  <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/admin.png" width="150"/>
+  <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/admin.png" width="150"/>  
 
    <a href="https://www.linkedin.com/in/nurakhmet-kitayev-b8751b162/" target="_blank">
-    <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/linkedIn.svg" alt="LinkedIn Badge"/>
+    <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/linkedIn.svg" alt="LinkedIn Badge" width="50px"/>
   </a>
   <a href="mailto:kitayev.n@gmail.com" target="_blank">
-    <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/gmail.svg" alt="gmail Badge"/>
+    <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/gmail.svg" alt="gmail Badge" width="50px"/>
   </a>
   <a href="https://t.me/kitayev_nura" target="_blank">
-    <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/telegram.svg" alt="Telegram"/>
+    <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/telegram.svg" alt="Telegram" width="50px"/>
   </a>
   
   <h1 align="center">
@@ -45,7 +45,9 @@ I'm from Kazakhstan. 🌍
 
 <code><img height="20" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/react.svg"> React</img></code>
 
+### :fire: My Stats:
 
+![Kitayev-Nurakhmet's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitayev-Nurakhmet&theme=radical)
 
 
 
