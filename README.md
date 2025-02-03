@@ -5,13 +5,13 @@
 <div id="header" align="center">
   <img width="100%" src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/line.gif" width="700">
   
-   <a href="https://www.linkedin.com/in/nurakhmet-kitayev-b8751b162/" target="_blank">
+   <a href="https://www.linkedin.com/in/nurakhmet-kitayev-b8751b162/" target="_blank" >
     <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/linkedIn.svg" alt="LinkedIn" width="50px"/>
   </a>
-  <a href="mailto:kitayev.n@gmail.com" target="_blank">
+  <a href="mailto:kitayev.n@gmail.com" target="_blank" >
     <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/gmail.svg" alt="gmail" width="50px"/>
   </a>
-  <a href="https://t.me/kitayev_nura" target="_blank">
+  <a href="https://t.me/kitayev_nura" target="_blank" >
     <img src="https://github.com/Kitayev-Nurakhmet/Kitayev-Nurakhmet/blob/main/img/telegram.svg" alt="Telegram" width="50px"/>
   </a>
 
