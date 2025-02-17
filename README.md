@@ -58,7 +58,7 @@ I'm from Kazakhstan. 🌍
   <summary>WakaTime 📈</summary>
   <br/>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kitayev-Nurakhmet)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kitayev-Nurakhmet)](https://github.com/Kitayev-Nurakhmet/github-readme-stats)
 
 </details>
 
